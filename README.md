@@ -3,6 +3,6 @@
 - GDSC
 - ITI
 - Mahara Tech
-- SEF
+- SEF Academy
 - Udemy
 - Almdrasa
